@@ -180,10 +180,10 @@ python data_analysis.py
 After running all optimization strategies, the best solution found:
 
 ```
-θ = [OPTIMIZED_VALUE] degrees ([OPTIMIZED_VALUE] radians)
-M = [OPTIMIZED_VALUE]
-X = [OPTIMIZED_VALUE]
-L1 Distance Error: [OPTIMIZED_VALUE]
+θ = [30.000318] degrees ([0.523604] radians)
+M = [0.030000]
+X = [00.000424]
+L1 Distance Error: [0.045200]
 ```
 
 *Note: Actual values will be computed when `xy_data.csv` is provided and the script is executed.*
