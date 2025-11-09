@@ -349,5 +349,5 @@ python data_analysis.py        # Analyze your data
 
 ## Author
 
-AI/ML Research & Development Assignment Solution
+KOLLA LOKEH
 
