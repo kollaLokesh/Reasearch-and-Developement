@@ -275,6 +275,7 @@ The solution provides multiple error metrics:
 - **Standard Deviation**: Solution consistency
 
 ### Visualization
+<img width="4772" height="2071" alt="image" src="https://github.com/user-attachments/assets/be9ff84f-7bfa-440d-95d1-a3b2bb9a43ed" />
 
 Generated plots:
 1. **Curve Comparison**: Fitted curve vs actual data points
@@ -302,19 +303,7 @@ Generated plots:
 5. **Cross-Validation**: Validate solution on held-out data
 
 ---
-
-## References
-
-- Scipy Optimization Documentation: https://docs.scipy.org/doc/scipy/reference/optimize.html
-- Differential Evolution Algorithm: Storn & Price (1997)
-- Basin Hopping Algorithm: Wales & Doye (1997)
-
 ---
-
-## License
-
-This code is provided for educational and research purposes.
-
 ---
 
 ## Quick Start
@@ -349,5 +338,5 @@ python data_analysis.py        # Analyze your data
 
 ## Author
 
-KOLLA LOKEH
+KOLLA LOKESH
 
